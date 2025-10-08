@@ -1,1 +1,3 @@
-test.tx
+text.txt
+logs/*.txt
+!logs/diff.txt
